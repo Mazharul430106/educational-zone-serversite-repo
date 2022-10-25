@@ -1,0 +1,39 @@
+[
+    
+    {
+      "id": 1,
+      "picture": "https://www.onlinecoursereport.com/wp-content/uploads/2020/07/shutterstock_394793860-1024x784.jpg",
+      "title": "Web Development",
+      "details": ""
+    },
+    {
+      "id": 2,
+      "picture": "https://res.cloudinary.com/hamstech/images/f_auto,q_auto/v1637134439/Hamstech%20App/Title-Image-4_80465274aebb5/Title-Image-4_80465274aebb5.jpg?_i=AA",
+      "title": "Graphic Design & Development",
+      "details": ""
+    },
+    {
+      "id": 3,
+      "picture": "https://ah-cdn.r.worldssl.net/content/wp-content/uploads/2018/01/AAEAAQAAAAAAAAc-AAAAJDM0MDhhZmJjLTFkYWYtNGVhYy05NWI4LTA1NWQwM2ZlZDllMw.jpg",
+      "title": "Degital Marketaing",
+      "details": ""
+    },
+    {
+      "id": 4,
+      "picture": "https://www.simplilearn.com/ice9/free_resources_article_thumb/Data_Science_Software_Development.jpg",
+      "title": "Software Development",
+      "details": ""
+    },
+    {
+      "id": 5,
+      "picture": "https://cdn.pixabay.com/photo/2020/02/24/04/25/web-design-4875183_1280.jpg",
+      "title": "Web Design",
+      "details": ""
+    },
+    {
+        "id": 6,
+        "picture": "https://www.invespcro.com/blog/images/blog-images/ux-ui-design.jpg",
+        "title": "UX UI Design",
+        "details": ""
+    }
+  ]
