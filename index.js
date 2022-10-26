@@ -21,7 +21,6 @@ app.get('/data/:id', (req, res)=>{
   res.send(selectedCourse);
 })
 
-
 app.listen(port, () => {
   console.log(`Educanal Server Site Running on port ${port}`)
 })

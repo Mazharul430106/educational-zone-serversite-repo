@@ -3,36 +3,36 @@
         "id": "1",
         "picture": "https://cdn.pixabay.com/photo/2020/02/24/04/25/web-design-4875183_1280.jpg",
         "title": "Web Design",
-        "details": ""
+        "details": "Web design is the process of planning, conceptualizing, and arranging content online. Today, designing a website goes beyond aesthetics to include the website’s overall functionality. Web design also includes web apps, mobile apps, and user interface design. Did you know that web design can have a huge impact on your performance in search engines like Google? This article will give you some helpful insight into how to create a website that not only looks good, but functions properly and ranks highly in search. "
     },
     {
       "id": "2",
       "picture": "https://www.onlinecoursereport.com/wp-content/uploads/2020/07/shutterstock_394793860-1024x784.jpg",
       "title": "Web Development",
-      "details": ""
+      "details": " Web development is the building and maintenance of websites; it's the work that happens behind the scenes to make a website look great, work fast and perform well with a seamless user experience. Web developers, or 'devs', do this by using a variety of coding languages. "
     },
     {
       "id": "3",
       "picture": "https://res.cloudinary.com/hamstech/images/f_auto,q_auto/v1637134439/Hamstech%20App/Title-Image-4_80465274aebb5/Title-Image-4_80465274aebb5.jpg?_i=AA",
       "title": "Graphic Design & Development",
-      "details": ""
+      "details": "Graphic design is a craft where professionals create visual content to communicate messages. By applying visual hierarchy and page layout techniques, designers use typography and pictures to meet users' specific needs and focus on the logic of displaying elements in interactive designs, to optimize the user experience."
     },
     {
       "id": "4",
       "picture": "https://ah-cdn.r.worldssl.net/content/wp-content/uploads/2018/01/AAEAAQAAAAAAAAc-AAAAJDM0MDhhZmJjLTFkYWYtNGVhYy05NWI4LTA1NWQwM2ZlZDllMw.jpg",
       "title": "Degital Marketaing",
-      "details": ""
+      "details": "Digital marketing, also called online marketing, is the promotion of brands to connect with potential customers using the internet and other forms of digital communication. This includes not only email, social media, and web-based advertising, but also text and multimedia messages as a marketing channel."
     },
     {
       "id": "5",
       "picture": "https://www.simplilearn.com/ice9/free_resources_article_thumb/Data_Science_Software_Development.jpg",
       "title": "Software Development",
-      "details": ""
+      "details": "Software development is the process programmers use to build computer programs. The process, also known as the Software Development Life Cycle (SDLC), includes several phases that provide a method for building products that meet technical specifications and user requirements."
     },
     {
         "id": "6",
         "picture": "https://www.invespcro.com/blog/images/blog-images/ux-ui-design.jpg",
         "title": "UX UI Design",
-        "details": ""
+        "details": "UI UX designers create the user interface for an app, website, or other interactive media. Their work includes collaborating with product managers and engineers to gather requirements from users before designing ideas that can be communicated using storyboards. They also process flows or sitemaps."
     }
   ]
