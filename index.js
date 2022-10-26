@@ -11,9 +11,14 @@ app.get('/', (req, res) => {
   res.send('Hello Educanal Server Site !!')
 })
 
-
 app.get('/data', (req, res)=>{
   res.send(data);
+})
+
+app.get('/data/:id', (req, res)=>{
+  const id = req.params.id;
+  const selectedCourse = data.find(course=> course.id === id);
+  res.send(selectedCourse);
 })
 
 
